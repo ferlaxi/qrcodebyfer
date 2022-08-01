@@ -13,4 +13,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Frontend Mentor - [@ferlaxi](https://www.frontendmentor.io/profile/ferlaxi)
-- Live Site URL: [QR Code](https://your-live-site-url.com)
+- Live Site URL: [QR Code](https://ferlaxi.github.io/qrcodebyfer/)
